@@ -1,5 +1,5 @@
 ## Deployed at 
-http://trackitsoon.herokuapp.com/
+https://expense-tracker-d4816.firebaseapp.com/login
 
 # Getting Started with Create React App
 
