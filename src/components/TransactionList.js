@@ -1,5 +1,5 @@
 import React, {useContext} from 'react';
-import {GlobalContext} from "../context/GlobalState";
+import {GlobalContext} from "../contexts/GlobalState";
 import {Transaction} from "./Transaction";
 
 export const TransactionList = () => {
