@@ -1,8 +1,12 @@
 ## Expense_Track
 This is a basic expense tracker for Keeping a record of Personal daily expenses. Knowing how much we spent and the items we spent the money on enable us to manage and control our expenditure
 
-![login](public/login.png)
-![main](public/main.png)
+<p align="center">
+  <img width="30%" src="public/login.png">
+</p>
+<p align="center">
+  <img width="30%" src="public/main.png">
+</p>
 
 ## Deployed at 
 https://expense-tracker-d4816.firebaseapp.com/login
@@ -14,7 +18,7 @@ Fork the repository
 
 git clone https://github.com/ShraxO1/Expense_Track.git
 
-cd calc
+cd Expense_Track
 
 npm install
 
